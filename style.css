@@ -1,0 +1,18 @@
+
+@import "https://fonts.googleapis.com/css?family=Black+Ops+One|Luckiest+Guy|Sonsie+One|Shojumaru&effect=3d|3d-float|anaglyph|brick-sign|canvas-print|crackle|decaying|destruction|distressed|distressed-wood|emboss|fire|fire-animation|fragile|grass|ice|mitosis|neon|outline|putting-green|scuffed-steel|shadow-multiple|splintered|static|stonewash|vintage|wallpaper";
+div{
+    color:#7A538A;
+    font-family:"Sonsie One";
+    font-size: 40px;
+
+}
+h1{
+    color:#4C00FF;
+    font-family:"Sonsie One";
+    font-size: 50px;
+    
+}
+a{
+    text-decoration:none; 
+}
+
