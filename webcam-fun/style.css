@@ -1,12 +1,12 @@
 
 html {
     font-size: 10px;
-    background:#ffc600;
+    background:#96ceb4;
     box-sizing: border-box;
   }
   
   .photobooth {
-    background:pink;
+    background: #ffeead;
     max-width:150rem;
     margin: 2rem auto;
     border-radius:2px;
